@@ -1,0 +1,6 @@
+{
+  "baidu.com":{"drop_rate":"0.0%","max_rtt":67.284,"median_rtt":31.956},
+  "microsoft.com":{"drop_rate":"100.0%","max_rtt":-1,"median_rtt":-1},
+  "sina.com.cn":{"drop_rate":"0.0%","max_rtt":155.097,"median_rtt":139.021},
+  "taobao.com":{"drop_rate":"0.0%","max_rtt":36.343,"median_rtt":19.461}
+}
