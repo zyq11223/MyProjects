@@ -1,0 +1,5 @@
+? (10.96.0.1) at 0:e0:2:54:0:61 on en5 ifscope [ethernet]
+? (10.96.67.90) at (incomplete) on en5 ifscope [ethernet]
+? (10.96.110.28) at (incomplete) on en5 ifscope [ethernet]
+? (10.96.127.255) at (incomplete) on en5 ifscope [ethernet]
+? (224.0.0.251) at 1:0:5e:0:0:fb on en5 ifscope permanent [ethernet]

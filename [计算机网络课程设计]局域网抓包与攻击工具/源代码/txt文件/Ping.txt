@@ -1,0 +1,55 @@
+PING csujwc.its.csu.edu.cn (202.197.61.221): 56 data bytes
+64 bytes from 202.197.61.221: icmp_seq=0 ttl=251 time=2.761 ms
+64 bytes from 202.197.61.221: icmp_seq=1 ttl=251 time=2.991 ms
+64 bytes from 202.197.61.221: icmp_seq=2 ttl=251 time=2.785 ms
+64 bytes from 202.197.61.221: icmp_seq=3 ttl=251 time=3.187 ms
+64 bytes from 202.197.61.221: icmp_seq=4 ttl=251 time=3.082 ms
+64 bytes from 202.197.61.221: icmp_seq=5 ttl=251 time=2.347 ms
+64 bytes from 202.197.61.221: icmp_seq=6 ttl=251 time=3.122 ms
+64 bytes from 202.197.61.221: icmp_seq=7 ttl=251 time=2.896 ms
+64 bytes from 202.197.61.221: icmp_seq=8 ttl=251 time=2.493 ms
+64 bytes from 202.197.61.221: icmp_seq=9 ttl=251 time=2.340 ms
+64 bytes from 202.197.61.221: icmp_seq=10 ttl=251 time=2.252 ms
+64 bytes from 202.197.61.221: icmp_seq=11 ttl=251 time=2.422 ms
+64 bytes from 202.197.61.221: icmp_seq=12 ttl=251 time=2.806 ms
+64 bytes from 202.197.61.221: icmp_seq=13 ttl=251 time=2.990 ms
+64 bytes from 202.197.61.221: icmp_seq=14 ttl=251 time=2.508 ms
+64 bytes from 202.197.61.221: icmp_seq=15 ttl=251 time=2.769 ms
+64 bytes from 202.197.61.221: icmp_seq=16 ttl=251 time=2.283 ms
+64 bytes from 202.197.61.221: icmp_seq=17 ttl=251 time=2.218 ms
+64 bytes from 202.197.61.221: icmp_seq=18 ttl=251 time=2.695 ms
+64 bytes from 202.197.61.221: icmp_seq=19 ttl=251 time=2.229 ms
+64 bytes from 202.197.61.221: icmp_seq=20 ttl=251 time=2.599 ms
+64 bytes from 202.197.61.221: icmp_seq=21 ttl=251 time=2.467 ms
+64 bytes from 202.197.61.221: icmp_seq=22 ttl=251 time=3.529 ms
+64 bytes from 202.197.61.221: icmp_seq=23 ttl=251 time=3.101 ms
+64 bytes from 202.197.61.221: icmp_seq=24 ttl=251 time=2.521 ms
+64 bytes from 202.197.61.221: icmp_seq=25 ttl=251 time=2.301 ms
+64 bytes from 202.197.61.221: icmp_seq=26 ttl=251 time=2.876 ms
+64 bytes from 202.197.61.221: icmp_seq=27 ttl=251 time=2.823 ms
+64 bytes from 202.197.61.221: icmp_seq=28 ttl=251 time=2.741 ms
+64 bytes from 202.197.61.221: icmp_seq=29 ttl=251 time=2.260 ms
+64 bytes from 202.197.61.221: icmp_seq=30 ttl=251 time=2.479 ms
+64 bytes from 202.197.61.221: icmp_seq=31 ttl=251 time=2.291 ms
+64 bytes from 202.197.61.221: icmp_seq=32 ttl=251 time=2.719 ms
+64 bytes from 202.197.61.221: icmp_seq=33 ttl=251 time=2.559 ms
+64 bytes from 202.197.61.221: icmp_seq=34 ttl=251 time=2.907 ms
+64 bytes from 202.197.61.221: icmp_seq=35 ttl=251 time=3.182 ms
+64 bytes from 202.197.61.221: icmp_seq=36 ttl=251 time=2.361 ms
+64 bytes from 202.197.61.221: icmp_seq=37 ttl=251 time=2.513 ms
+64 bytes from 202.197.61.221: icmp_seq=38 ttl=251 time=2.386 ms
+64 bytes from 202.197.61.221: icmp_seq=39 ttl=251 time=2.240 ms
+64 bytes from 202.197.61.221: icmp_seq=40 ttl=251 time=2.865 ms
+64 bytes from 202.197.61.221: icmp_seq=41 ttl=251 time=2.203 ms
+64 bytes from 202.197.61.221: icmp_seq=42 ttl=251 time=2.567 ms
+64 bytes from 202.197.61.221: icmp_seq=43 ttl=251 time=3.173 ms
+64 bytes from 202.197.61.221: icmp_seq=44 ttl=251 time=2.671 ms
+64 bytes from 202.197.61.221: icmp_seq=45 ttl=251 time=2.465 ms
+64 bytes from 202.197.61.221: icmp_seq=46 ttl=251 time=2.581 ms
+64 bytes from 202.197.61.221: icmp_seq=47 ttl=251 time=2.223 ms
+64 bytes from 202.197.61.221: icmp_seq=48 ttl=251 time=2.924 ms
+64 bytes from 202.197.61.221: icmp_seq=49 ttl=251 time=2.730 ms
+
+--- csujwc.its.csu.edu.cn ping statistics ---
+50 packets transmitted, 50 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.203/2.649/3.529/0.319 ms
