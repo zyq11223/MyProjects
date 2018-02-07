@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1465290873 source:c:\users\admin\desktop\预设版\课程设计\001.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	"001.h"
+
+1465278001 c:\users\admin\desktop\预设版\课程设计\001.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+
+1467287161 source:c:\users\admin\desktop\预设版\课程设计\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	"001.h"
+	<conio.h>
+
